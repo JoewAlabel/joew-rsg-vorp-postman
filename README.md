@@ -40,4 +40,5 @@ Wish you like 😉
 > All credits to the creators !!!
 
 :white_check_mark: SAFE!<br>
-https://www.virustotal.com/gui/file/723b1896793bf53ed18cbad47b76cced02342d360beee0bf9819bbde598beb17
+https://www.virustotal.com/gui/file/502b916b032ad2c32a89300c964b4207ff6937b7e4676515b1ed8ee2637cec90 (v1.1)
+https://www.virustotal.com/gui/file/723b1896793bf53ed18cbad47b76cced02342d360beee0bf9819bbde598beb17 (v1.0)
